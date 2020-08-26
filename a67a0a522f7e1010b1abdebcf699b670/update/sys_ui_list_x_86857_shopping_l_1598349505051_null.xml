@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_86857_shopping_l_1598349505051" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_86857_shopping_l_1598349505051" element="NULL" name="x_86857_shopping_l_1598349505051" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">059b86d62f7e1010b1abdebcf699b6b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 09:58:26</sys_created_on>
+            <sys_id>099b86d62f7e1010b1abdebcf699b6b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 09:58:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="x_86857_shopping_l_1598349505051" element="NULL" name="x_86857_shopping_l_1598349505051" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">059b86d62f7e1010b1abdebcf699b6b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 09:58:26</sys_created_on>
+            <sys_id>8d9b86d62f7e1010b1abdebcf699b6b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 09:58:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="x_86857_shopping_l_1598349505051" element="NULL" name="x_86857_shopping_l_1598349505051" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">059b86d62f7e1010b1abdebcf699b6b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 09:58:26</sys_created_on>
+            <sys_id>019b86d62f7e1010b1abdebcf699b6b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 09:58:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="x_86857_shopping_l_1598349505051" element="NULL" name="x_86857_shopping_l_1598349505051" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">059b86d62f7e1010b1abdebcf699b6b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 09:58:26</sys_created_on>
+            <sys_id>819b86d62f7e1010b1abdebcf699b6b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 09:58:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="x_86857_shopping_l_1598349505051" element="NULL" name="x_86857_shopping_l_1598349505051" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">059b86d62f7e1010b1abdebcf699b6b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 09:58:26</sys_created_on>
+            <sys_id>059b86d62f7e1010b1abdebcf699b6b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 09:58:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="x_86857_shopping_l_1598349505051" element="NULL" name="x_86857_shopping_l_1598349505051" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">059b86d62f7e1010b1abdebcf699b6b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 09:58:26</sys_created_on>
+            <sys_id>859b86d62f7e1010b1abdebcf699b6b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 09:58:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_86857_shopping_l_1598349505051</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 09:58:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>059b86d62f7e1010b1abdebcf699b6b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_86857_shopping_l_1598349505051</sys_name>
+            <sys_package display_value="Shopping List" source="x_86857_shopping_l">a67a0a522f7e1010b1abdebcf699b670</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">a67a0a522f7e1010b1abdebcf699b670</sys_scope>
+            <sys_update_name>sys_ui_list_x_86857_shopping_l_1598349505051_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 09:58:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
